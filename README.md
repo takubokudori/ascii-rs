@@ -6,7 +6,7 @@ Encode/Decode ascii code.
 
 ```
 $ git clone https://github.com/takubokudori/ascii-rs
-$ cargo install --path . --force
+$ cargo install --path ascii-rs --force
 $ ascii test
 |  CHR  |  DEC  |  HEX  |
 +-------+-------+-------+
